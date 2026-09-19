@@ -1,4 +1,4 @@
-# 📱 BabyGuard Android
+# 📱 BabyGuard Android (AISecurity)
 
 **BabyGuard Android** is the mobile application for the **BabyGuard Smart Security (BGSS)** system. It connects to the Python/Flask backend over a local network and provides a mobile interface for live monitoring, family management, and security event history.
 
